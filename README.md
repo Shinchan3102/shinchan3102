@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">A passionate Competitive Programmer and Enthusiastic Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shinchan3102&label=Profile%20views&color=0e75b6&style=flat" alt="shinchan3102" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shinchan3102&label=Profile%20views&color=0e75b6&style=flat" alt="shinchan3102" /> </p>
 
 - 💬 Ask me about **React, NodeJs**
 
