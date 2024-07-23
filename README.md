@@ -16,7 +16,6 @@
 </p>
 
 <br />
-<br />
 
 ## 📈 My Github Stats
 <div class="badges-githubstats">
@@ -29,6 +28,4 @@
   </p>
 </div>
 
-<br/>
-<br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
